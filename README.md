@@ -6,7 +6,9 @@
   Hi, I'm Álvaro Serrano
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+<div>
+   ![Álvaro Serrano](https://github.com/user-attachments/assets/a98b6152-d098-475d-a008-9ed1bbad6b41)
+</div>
 ---
 
 - 👨‍💻 As a web developer, I'm constantly learning and exploring new technologies to improve my skills.
