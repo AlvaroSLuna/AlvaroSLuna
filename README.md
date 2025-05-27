@@ -12,7 +12,7 @@
 ---
 
 - 👨‍💻 As a web developer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with web development using Java, PHP, HTML5, and MySQL.
+- 💬 Ask me about my experience with web development using Java, PHP, HTML5, CSS and MySQL.
 
 ## 🛠 &nbsp;Tech Stack
 
